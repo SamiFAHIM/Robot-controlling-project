@@ -1,4 +1,4 @@
-# Robot-Control-Card-Software mainly in C++/C
+# Robot-Control-Card-Software mainly in C/C++
 ## Overview
 Welcome to the source code repository for the Motor Control Card of our autonomous robot, designed and developed by the Clubelek Association, representing our university INSA Lyon at the Eurobot Contest. This control card is a critical component of our robot's system, handling motor regulation, odometry, and localization. The software running on this card ensures precise control of the robot's movement and accurate tracking of its position, which is essential for autonomous navigation.
  
